@@ -7,9 +7,9 @@ Abaixo estão as representações visuais geradas por IA para ilustrar a temáti
 
 1. ![Imagem 1 - Cibersegurança](cybersecurity-image1.png)
 2. ![Imagem 2 - Engenharia Social](cybersecurity-image2.png)
-3. ![Imagem 3 - Ameaça Digital](cybersecurity-image3.png)
+3. ![Imagem 3 - Servidor Seguro](cybersecurity-image5.png)
 4. ![Imagem 4 - Hacker](cybersecurity-image4.png)
-5. ![Imagem 5 - Servidor Seguro](cybersecurity-image5.png)
+5. ![Imagem 5 - Ameaça Digital](cybersecurity-image3.png)
 6. ![Imagem 6 - Proteção de Dados](cybersecurity-image6.png)
 7. ![Imagem 7 - Alerta de Phishing](cybersecurity-image7.png)
 8. ![Imagem 8 - Rede Conectada](cybersecurity-image8.png)
